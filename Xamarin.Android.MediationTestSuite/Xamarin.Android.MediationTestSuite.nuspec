@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Xamarin.Android.MediationTestSuite</id>
+    <version>1.0.0</version>
+    <description>Xamarin Binding Library - Google::MediationTestSuite</description>
+    <authors>Michał Krzus</authors>
+    <owners>Michał Krzus</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <title>Xamarin - Google::MediationTestSuite</title>
+    <releaseNotes>Google::MediationTestSuite v1.0.0</releaseNotes>
+    <summary>Xamarin Binding Library - Google::MediationTestSuite</summary>
+    <license type="expression">Apache-2.0</license>
+    <projectUrl>https://github.com/Vintar/Xamarin.Android.MediationTestSuite</projectUrl>
+    <copyright>Copyright (c) 2020 Michał Krzus</copyright>
+    <tags>Xamarin.Android, Mediation, MediationTestSuite</tags>
+    <dependencies>
+      <dependency id="FlexboxLayoutXamarinBindingAndroid" version="1.0.2" />
+      <dependency id="GoogleGson" version="2.8.5" />
+      <dependency id="Xamarin.Android.Volley" version="1.1.1.1" />
+    </dependencies>
+  </metadata>
+
+  <files>
+    <file src="bin/Release/Xamarin.Android.MediationTestSuite.dll" target="lib/MonoAndroid10/Xamarin.Android.MediationTestSuite.dll" />
+  </files>
+
+</package>
