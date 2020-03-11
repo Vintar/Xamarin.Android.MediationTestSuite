@@ -6,11 +6,11 @@ using Android.App;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MediationTestSuiteSample.Droid")]
+[assembly: AssemblyTitle("Xamarin.Android.MediationTestSuiteSample.Droid")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MediationTestSuiteSample.Droid")]
+[assembly: AssemblyProduct("Xamarin.Android.MediationTestSuiteSample.Droid")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
