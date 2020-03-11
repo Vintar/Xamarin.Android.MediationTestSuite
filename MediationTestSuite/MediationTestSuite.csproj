@@ -10,8 +10,8 @@
     <TemplateGuid>{77efb91c-a7e9-4b0e-a7c5-31eeec3c6d46}</TemplateGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Xamarin.Android.MediationTestSuite</RootNamespace>
-    <AssemblyName>Xamarin.Android.MediationTestSuite</AssemblyName>
+    <RootNamespace>MediationTestSuite</RootNamespace>
+    <AssemblyName>MediationTestSuite</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v10.0</TargetFrameworkVersion>
@@ -56,26 +56,8 @@
     <TransformFile Include="Transforms\EnumMethods.xml" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="FlexboxLayoutXamarinBindingAndroid">
-      <Version>1.0.2</Version>
-    </PackageReference>
     <PackageReference Include="GoogleGson">
       <Version>2.8.5</Version>
-    </PackageReference>
-    <PackageReference Include="Xamarin.Android.Support.CustomTabs">
-      <Version>28.0.0.3</Version>
-    </PackageReference>
-    <PackageReference Include="Xamarin.Android.Support.v4">
-      <Version>28.0.0.3</Version>
-    </PackageReference>
-    <PackageReference Include="Xamarin.Android.Support.v7.AppCompat">
-      <Version>28.0.0.3</Version>
-    </PackageReference>
-    <PackageReference Include="Xamarin.Android.Support.v7.RecyclerView">
-      <Version>28.0.0.3</Version>
-    </PackageReference>
-    <PackageReference Include="Xamarin.Android.Volley">
-      <Version>1.1.1.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.GooglePlayServices.Ads">
       <Version>71.1720.1</Version>

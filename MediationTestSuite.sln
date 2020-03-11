@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Android.MediationTestSuite", "Xamarin.Android.MediationTestSuite.csproj", "{3D44F8D3-B3FA-4BB7-9911-5CE05202DEFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediationTestSuite", "MediationTestSuite\MediationTestSuite.csproj", "{3D44F8D3-B3FA-4BB7-9911-5CE05202DEFA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{D1369FC4-5783-4464-A3AC-8237CF3EB164}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediationTestSuiteSample.Droid", "..\Samples\MediationTestSuiteSample.Droid\MediationTestSuiteSample.Droid.csproj", "{8F3E59BC-4950-4C36-938E-0FB951260784}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediationTestSuiteSample.Droid", "Samples\MediationTestSuiteSample.Droid\MediationTestSuiteSample.Droid.csproj", "{8F3E59BC-4950-4C36-938E-0FB951260784}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
